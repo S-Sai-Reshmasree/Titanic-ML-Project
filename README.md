@@ -15,3 +15,11 @@ Random Forest
 
 Reason:
 It achieved highest accuracy and handles complex feature relationships.
+
+# Conclusion
+
+Random Forest performed better than Logistic Regression and KNN based on evaluation metrics.
+It achieved the highest accuracy, precision, recall, and F1-score among the three models.
+The model performed well because it can learn complex patterns and relationships between passenger features.
+Feature analysis showed that variables such as Sex, Passenger Class, and Fare influenced survival prediction.
+Therefore, Random Forest was selected as the best model for Titanic survival prediction.
