@@ -12,9 +12,22 @@ Models:
 
 Best Model:
 Random Forest
-
 Reason:
 It achieved highest accuracy and handles complex feature relationships.
+
+
+# Project Workflow
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+Feature Engineering
+        ↓
+Model Training
+        ↓
+Model Evaluation
+        ↓
+Best Model Selection
 
 # Conclusion
 
